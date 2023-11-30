@@ -1,0 +1,25 @@
+h1 {
+    color:darkgreen;
+   font-style:italic;
+    padding: 19px;
+    font-family :verdana;
+    text-decoration: underline;
+}
+
+p{
+    font-weight: bold;
+    color:black;
+
+}
+
+body {
+    border: 2px solid black; 
+    padding: 20px; 
+    line-height: 1.6;
+    background-color: rgb(198, 225, 190);
+    
+}
+nav{
+    font-weight: bold;
+
+}

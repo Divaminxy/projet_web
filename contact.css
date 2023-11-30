@@ -1,0 +1,12 @@
+body {
+    border: 2px solid darkcyan; 
+    padding: 20px; 
+    line-height: 1.6;
+    background-color: rgb(198, 225, 190);
+}
+p{
+    color:darkgreen;
+}
+a{
+    color:darkgreen;
+}
